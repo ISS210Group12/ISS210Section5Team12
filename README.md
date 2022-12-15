@@ -11,3 +11,4 @@ Makarova, Elena, et al. “The Gender Gap in STEM Fields: The Impact of the Gend
 “Home.” Stem for Her, 18 Oct. 2022, https://stemforher.org/. 
 "The STEM Gap: Women and Girls in Science, Technology, Engingeering and Mathmatics." https://www.aauw.org/resources/research/the-stem-gap/
 "Are These Subltle Forms of Gender Discrimination Occuring in Your Workplace?" https://ablinlaw.com/articles/2018/02/27/are-these-subtle-forms-of-gender-discrimination-occurring-in-your-workplace/
+Thang Dao, Nguyen. “The education gender gap and the demographic transition in developing countries” Journal of Population Economics, vol. 34, no. 2, 2020, pp. 431-474. Springer Link, 431–474 https://doi.org/10.1007/s00148-020-00787-1. Accessed 24 November 2022.
