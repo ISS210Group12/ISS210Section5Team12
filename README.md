@@ -9,3 +9,5 @@ https://eds.s.ebscohost.com/eds/detail/detail?vid=13&sid=5232b683-176b-495a-9a8f
 Piva, E., & Rovelli, P. (2021). Mind the gender gap: the impact of university education on the entrepreneurial entry of female and male STEM graduates. Small Business Economics: An Entrepreneurship Journal, 1–19. https://doi.org/10.1007/s11187-021-00525-1
 Makarova, Elena, et al. “The Gender Gap in STEM Fields: The Impact of the Gender Stereotype of Math and Science on Secondary Students' Career Aspirations.” Frontiers in Education, vol. 4, no. 60, 2019. MSU Libraries, doi:10.3389/feduc.2019.00060. Accessed 21 November 2022. https://www.frontiersin.org/articles/10.3389/feduc.2019.00060/full 
 “Home.” Stem for Her, 18 Oct. 2022, https://stemforher.org/. 
+"The STEM Gap: Women and Girls in Science, Technology, Engingeering and Mathmatics." https://www.aauw.org/resources/research/the-stem-gap/
+"Are These Subltle Forms of Gender Discrimination Occuring in Your Workplace?" https://ablinlaw.com/articles/2018/02/27/are-these-subtle-forms-of-gender-discrimination-occurring-in-your-workplace/
