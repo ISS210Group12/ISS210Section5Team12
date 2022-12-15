@@ -7,3 +7,5 @@ Bruckmüller S, Braun M. One Group’s Advantage or Another Group’s Disadvanta
 https://eds.s.ebscohost.com/eds/detail/detail?vid=13&sid=5232b683-176b-495a-9a8f-9eae86e6eae4%40redis&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=144768737&db=ufh
 “Meet the next Generation of Women in Stem.” Energy.gov, https://www.energy.gov/eere/articles/meet-next-generation-women-stem. 
 Piva, E., & Rovelli, P. (2021). Mind the gender gap: the impact of university education on the entrepreneurial entry of female and male STEM graduates. Small Business Economics: An Entrepreneurship Journal, 1–19. https://doi.org/10.1007/s11187-021-00525-1
+Makarova, Elena, et al. “The Gender Gap in STEM Fields: The Impact of the Gender Stereotype of Math and Science on Secondary Students' Career Aspirations.” Frontiers in Education, vol. 4, no. 60, 2019. MSU Libraries, doi:10.3389/feduc.2019.00060. Accessed 21 November 2022. https://www.frontiersin.org/articles/10.3389/feduc.2019.00060/full 
+“Home.” Stem for Her, 18 Oct. 2022, https://stemforher.org/. 
