@@ -5,3 +5,5 @@ WorkplaceStats.JPG: Parker, Kim. “Women in Majority-Male Workplaces Report Hig
 BreakingGlassCeiling.JPG: Sudowoodo. “Cartoon Woman Drawing Breaking Glass Ceiling. Sexism Issues in Work...” IStock, Getty Images, 29 Mar. 2020, https://www.istockphoto.com/vector/business-woman-breaking-glass-ceiling-gm1215530557-354069521. 
 Bruckmüller S, Braun M. One Group’s Advantage or Another Group’s Disadvantage? How Comparative Framing Shapes Explanations of, and Reactions to, Workplace Gender Inequality. Journal of Language & Social Psychology. 2020;39(4):457-475. doi:10.1177/0261927X20932631. Accessed 24 November 2022.
 https://eds.s.ebscohost.com/eds/detail/detail?vid=13&sid=5232b683-176b-495a-9a8f-9eae86e6eae4%40redis&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=144768737&db=ufh
+“Meet the next Generation of Women in Stem.” Energy.gov, https://www.energy.gov/eere/articles/meet-next-generation-women-stem. 
+Piva, E., & Rovelli, P. (2021). Mind the gender gap: the impact of university education on the entrepreneurial entry of female and male STEM graduates. Small Business Economics: An Entrepreneurship Journal, 1–19. https://doi.org/10.1007/s11187-021-00525-1
